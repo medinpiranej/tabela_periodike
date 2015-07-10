@@ -1,0 +1,1 @@
+ky eshte nje projekt i krijuar me IDE-n Lazaurus ne gjuhen paskal , dhe kodi fillestar eshte tabela_periodike.lpr
